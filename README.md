@@ -41,5 +41,5 @@ Testing and Debuging: Conduct rigourous functional and usability testing.
 
 
 EXPECTED IMPACT:
-
+.
 This app will not only streamline campus communication but also foster a more organized,inclusive,and engaged student community. Faculty and administration will benefit from improved coordination, while students gain a reliable tool to navigate their academic and social lives effeciently.
