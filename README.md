@@ -3,6 +3,7 @@ COLLEGEHUB
 WORKFLOW AND TIMELINE FOR COLLEGEHUB
 
 Week1:Planning and ideation
+
 Define scope:Outline app features, objectives,and target audience.
 
 requirements gathering :Meet with stakeholders(students,faculty,administation) to gather input.
