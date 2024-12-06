@@ -18,7 +18,10 @@ User flow testing: Test mockups with a small group for feedback.
 
 Finalize designe: Implement changes based on user feedback.
 
-Week3-4 Development phase1(Core Features)
+ phase1(Core Features)
+
+ Week3-4 Development
+ 
 Setup backend: Create database schema for events, schedules, and notifications.
 
 
@@ -29,7 +32,9 @@ Notification system: Develop the push notification functionality for realtime up
 Basic Integration: Connect frontend and backend components
 
 
-Week5 Development Phase2(Enhancement & Testing)
+ Phase2(Enhancement & Testing)
+ 
+ Week5 Development
 
 Accessibility Feutures: Add options like text-to-speech and customizable themes.
 .
@@ -41,5 +46,7 @@ Testing and Debuging: Conduct rigourous functional and usability testing.
 
 
 EXPECTED IMPACT:
-.
-This app will not only streamline campus communication but also foster a more organized,inclusive,and engaged student community. Faculty and administration will benefit from improved coordination, while students gain a reliable tool to navigate their academic and social lives effeciently.
+
+This app will not only streamline campus communication but also foster a more organized,
+inclusive,and engaged student community. Faculty and administration will benefit from improved coordination,
+while students gain a reliable tool to navigate their academic and social lives effeciently.
